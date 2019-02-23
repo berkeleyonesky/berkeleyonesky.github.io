@@ -2623,7 +2623,8 @@ input, select, textarea {
 		}
 
 			.features article:nth-child(2n - 1) {
-				margin-right: 1.5em;
+				margin-right: 0.75em;
+				margin-left: 0.75em
 			}
 
 			/* .features article:nth-child(3n - 1) {
@@ -2632,8 +2633,8 @@ input, select, textarea {
 			} */
 
 			.features article:nth-child(n) {
-				margin-left: 1.5em;
-			}
+				margin-right: 0.75em;
+				margin-left: 0.75em			}
 
 			.features article:nth-last-child(1), .features article:nth-last-child(2) {
 				margin-bottom: 0;
